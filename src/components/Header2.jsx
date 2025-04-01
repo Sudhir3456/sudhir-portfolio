@@ -60,11 +60,11 @@ const Header2 = () => {
             </a>
           ))}
           <a 
-            href="/sudhirResume.pdf.docx" 
+            href="/documents/sudhirResume.pdf.docx" 
             download="Sudhir_Kumar_Yadav_CV.pdf"
             className="mt-4 px-4 py-2 bg-orange-500 rounded-full text-white hover:bg-orange-600 transition duration-300"
           >
-            Download CV
+            Download CV    
           </a>
         </nav>
       )}
