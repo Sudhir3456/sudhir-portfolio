@@ -8,7 +8,7 @@ const About = () => {
         {/* Left Side - Image (Rounded with Soft Shadow) */}
         <div className="md:w-1/2 flex justify-center md:justify-start">
           <div className="w-64 h-64 md:w-80 md:h-80 bg-gray-200 rounded-full shadow-lg overflow-hidden">
-            <img src="/images/sudhirprofilepic.jpg" alt="Profile" className="w-full h-full object-cover" />
+            <img src="sudhir-portfolio/images/sudhirprofilepic.jpg" alt="Profile" className="w-full h-full object-cover" />
           </div>
         </div>  
 
