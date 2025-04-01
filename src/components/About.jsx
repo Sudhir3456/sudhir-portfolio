@@ -1,6 +1,6 @@
 import React from "react";
 
-const About3 = () => {
+const About = () => {
   return (
     <section className="w-full bg-gray-100 py-16">
       <div className="max-w-6xl mx-auto px-6 md:px-12 lg:px-20 flex flex-col md:flex-row items-center">
@@ -8,7 +8,7 @@ const About3 = () => {
         {/* Left Side - Image (Rounded with Soft Shadow) */}
         <div className="md:w-1/2 flex justify-center md:justify-start">
           <div className="w-64 h-64 md:w-80 md:h-80 bg-gray-200 rounded-full shadow-lg overflow-hidden">
-            <img src="./public/assets/sudhirprofilepic.jpg" alt="Profile" className="w-full h-full object-cover" />
+            <img src="./public/sudhirprofilepic.jpg" alt="Profile" className="w-full h-full object-cover" />
           </div>
         </div>
 
@@ -44,4 +44,4 @@ const About3 = () => {
   );
 };
 
-export default About3;
+export default About;

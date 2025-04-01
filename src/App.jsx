@@ -1,7 +1,7 @@
 import React from "react";
 import Header2 from "./components/Header2";
 import Banner from "./components/Banner";
-import About3 from "./components/About3";
+import About from "./components/About";
 import Service from "./components/Service";
 import Expertise from "./components/Expertise";
 import Footer from "./components/Footer";
@@ -17,7 +17,7 @@ function App() {
       </div>
 
       <div id="about" className="p-6 space-y-16">
-        <About3 />
+        <About />
       </div>
 
       <div id="skills">
