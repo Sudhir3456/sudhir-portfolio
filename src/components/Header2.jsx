@@ -33,7 +33,7 @@ const Header2 = () => {
 
         {/* Download CV Button */}
         <a 
-          href="./src/assets/sudhirResume.pdf.docx" 
+          href="./src/assets/qasudhirressume.pdf" 
           download="sudhirResume.pdf.docx"
           className="hidden md:block px-4 py-2 bg-orange-500 rounded-full text-white hover:bg-orange-600 transition duration-300"
         >
@@ -60,7 +60,7 @@ const Header2 = () => {
             </a>
           ))}
           <a 
-            href="/documents/sudhirResume.pdf.docx" 
+            href="/sudhir-portfolio/public/documents/qasudhirressume.pdf" 
             download="Sudhir_Kumar_Yadav_CV.pdf"
             className="mt-4 px-4 py-2 bg-orange-500 rounded-full text-white hover:bg-orange-600 transition duration-300"
           >

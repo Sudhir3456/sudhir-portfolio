@@ -1,6 +1,6 @@
 import React from "react";
 import Header2 from "./components/Header2";
-import Banner from "./components/Banner";
+import Banner2 from "./components/Banner2";
 import About from "./components/About";
 import Service from "./components/Service";
 import Expertise from "./components/Expertise";
@@ -13,7 +13,7 @@ function App() {
 
       {/* Adjust margin to prevent extra space */}
       <div id="home" className="mt-16">
-        <Banner />
+        <Banner2 />
       </div>
 
       <div id="about" className="p-6 space-y-16">
